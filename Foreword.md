@@ -1,6 +1,6 @@
 The phrase that will define all of the content to follow is this: 
 
- # "Writing 'good code' is an art and you must learn and practice it."
+#"Writing 'good code' is an art and you must learn and practice it."
   
 Everyone may (very often do) have different definitions for the term ‘good code’. In my definition, the following are the characteristics of good code.
 
