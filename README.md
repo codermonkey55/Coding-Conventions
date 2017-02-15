@@ -3,4 +3,5 @@ Unless explicitly mentioned, this document describes the set of guidelines, styl
 
 
 The following document by "Aviva Solutions" is used for all personal projects unless stated otherwise.
-[Coding Guidelines for C# 3.0, 4.0 and 5.0 - By Aviva]: https://github.com/dennisdoomen/CSharpGuidelines
+
+[Coding Guidelines for C# 3.0, 4.0 and 5.0 - By Aviva](https://github.com/dennisdoomen/CSharpGuidelines)
